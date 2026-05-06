@@ -18,8 +18,8 @@ const skills = [
   {
     title: "Frontend",
     items: [
-      { name: "React", level: 85, icon: <FaReact /> },
-      { name: "JavaScript", level: 80, icon: <SiJavascript /> },
+      { name: "React", level: 80, icon: <FaReact /> },
+      { name: "JavaScript", level: 70, icon: <SiJavascript /> },
       { name: "Tailwind", level: 85, icon: <SiTailwindcss /> },
     ],
   },
